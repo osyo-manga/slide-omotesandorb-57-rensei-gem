@@ -140,7 +140,7 @@ puts Rensei.unparse(ast)
 
 ---
 
-## [デモ](https://github.com/osyo-manga/gem-rensei/blob/cdc61c89616aae1616101cb8481833d96f27ca2e/sample/bocchi.rb)
+## [デモ](https://github.com/osyo-manga/slide-omotesandorb-57-rensei-gem/blob/b7a16c2d282936acd071651d38de2164faa66068/codes/bocchi.rb)
 
 ---
 

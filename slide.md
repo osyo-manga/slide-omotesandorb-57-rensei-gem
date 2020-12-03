@@ -153,6 +153,9 @@ puts Rensei.unparse(ast)
     * これでブロック内のコードをいい感じに書き換える事ができる
 * 詳しくはアドベントカレンダーの記事を読んでくれよな！！
     * [Ruby の AST から Ruby のソースコードを復元しよう](https://secret-garden.hatenablog.com/entry/2020/12/01/093316)
+* アドベントカレンダーやってます
+    * [Ruby 3.0 Advent Calendar 2020](https://qiita.com/advent-calendar/2020/ruby3)
+    * [令和時代の基礎文法最速マスター Advent Calendar 2020](https://qiita.com/advent-calendar/2020/reiwa_saisoku)
 
 
 ---
